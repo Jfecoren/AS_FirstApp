@@ -63,7 +63,8 @@ hs_err_pid*
 # Compiled class file
 
 # Log file
-
+.gradle/
+gradle/
 # BlueJ files
 
 # Mobile Tools for Java (J2ME)
