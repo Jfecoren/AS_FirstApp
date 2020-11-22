@@ -1,0 +1,2 @@
+com/example/sixsounds/BuildConfig.java
+ com.example.sixsounds.BuildConfig
